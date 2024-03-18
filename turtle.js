@@ -2,7 +2,7 @@ export class Turtle {
     constructor() {
         this.positionX = 0;
         this.positionY = 0;
-        this.angle = 0
+        this.angle = 90;
         this.instructions = [];
         this.penUp = true;
     }
